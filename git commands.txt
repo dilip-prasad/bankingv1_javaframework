@@ -1,0 +1,9 @@
+git init
+git remote add origin "https://github.com/dilip-prasad/bankingv1_javaframework.git"
+git status
+git add -A
+git config --global user.name "dilip-prasad"
+git config --global user.email "dilipprasad934@gmail.com"
+git commit -m "newjavaframework"
+git push -u origin master
+git pull origin master
