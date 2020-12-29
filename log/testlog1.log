@@ -1,0 +1,175 @@
+2020-12-20 01:13:42,855 [main] INFO banking - URL opened
+2020-12-20 01:13:43,113 [main] INFO banking - uname entered
+2020-12-20 01:13:43,283 [main] INFO banking - pwd entered
+2020-12-20 01:13:44,972 [main] INFO banking - submitted
+2020-12-20 01:13:44,986 [main] INFO banking - login test passed
+2020-12-20 10:03:50,038 [main] INFO banking - URL opened
+2020-12-20 10:03:50,501 [main] INFO banking - uname entered
+2020-12-20 10:03:50,654 [main] INFO banking - pwd entered
+2020-12-20 10:03:52,366 [main] INFO banking - submitted
+2020-12-20 10:03:52,378 [main] WARN banking - Warning
+2020-12-20 10:03:52,378 [main] INFO banking - login test passed
+2020-12-20 11:32:23,231 [main] INFO banking - URL opened
+2020-12-20 11:32:23,642 [main] INFO banking - uname entered
+2020-12-20 11:32:23,837 [main] INFO banking - pwd entered
+2020-12-20 11:32:25,811 [main] INFO banking - submitted
+2020-12-20 11:32:25,830 [main] WARN banking - Warning
+2020-12-20 11:32:25,831 [main] INFO banking - login test passed
+2020-12-20 11:34:52,501 [main] INFO banking - URL opened
+2020-12-20 11:34:53,596 [main] INFO banking - uname entered
+2020-12-20 11:34:53,640 [main] INFO banking - pwd entered
+2020-12-20 11:34:57,843 [main] INFO banking - submitted
+2020-12-20 11:34:57,852 [main] INFO banking - login test passed
+2020-12-20 14:33:35,252 [main] INFO banking - URL opened
+2020-12-20 14:33:35,596 [main] INFO banking - uname entered
+2020-12-20 14:33:35,723 [main] INFO banking - pwd entered
+2020-12-20 14:33:38,413 [main] INFO banking - submitted
+2020-12-20 14:33:38,439 [main] INFO banking - login test passed
+2020-12-20 14:35:09,138 [main] INFO banking - URL opened
+2020-12-20 14:35:09,450 [main] INFO banking - uname entered
+2020-12-20 14:35:09,619 [main] INFO banking - pwd entered
+2020-12-20 14:35:11,636 [main] INFO banking - submitted
+2020-12-20 14:35:11,650 [main] INFO banking - login test passed
+2020-12-20 14:36:08,219 [main] INFO banking - URL opened
+2020-12-20 14:36:08,422 [main] INFO banking - uname entered
+2020-12-20 14:36:08,475 [main] INFO banking - pwd entered
+2020-12-20 14:36:12,552 [main] INFO banking - submitted
+2020-12-20 14:36:12,570 [main] INFO banking - login test passed
+2020-12-20 15:17:58,002 [main] INFO banking - URL opened
+2020-12-20 15:17:58,386 [main] INFO banking - uname entered
+2020-12-20 15:17:58,536 [main] INFO banking - pwd entered
+2020-12-20 15:18:00,875 [main] INFO banking - submitted
+2020-12-20 15:18:00,910 [main] INFO banking - login test passed
+2020-12-20 15:19:38,319 [main] INFO banking - URL opened
+2020-12-20 15:19:38,563 [main] INFO banking - uname entered
+2020-12-20 15:19:38,609 [main] INFO banking - pwd entered
+2020-12-20 15:19:45,343 [main] INFO banking - submitted
+2020-12-20 15:19:45,366 [main] INFO banking - login test passed
+2020-12-20 15:21:18,286 [main] INFO banking - URL opened
+2020-12-20 15:21:18,648 [main] INFO banking - uname entered
+2020-12-20 15:21:18,833 [main] INFO banking - pwd entered
+2020-12-20 15:21:20,720 [main] INFO banking - submitted
+2020-12-20 15:21:20,733 [main] INFO banking - login test passed
+2020-12-20 16:29:11,542 [main] INFO banking - URL opened
+2020-12-20 16:29:12,038 [main] INFO banking - uname entered
+2020-12-20 16:29:12,250 [main] INFO banking - pwd entered
+2020-12-20 16:29:14,233 [main] INFO banking - submitted
+2020-12-20 16:29:14,243 [main] INFO banking - login test passed
+2020-12-20 16:35:15,683 [main] INFO banking - URL opened
+2020-12-20 16:35:15,957 [main] INFO banking - uname entered
+2020-12-20 16:35:16,094 [main] INFO banking - pwd entered
+2020-12-20 16:35:17,915 [main] INFO banking - submitted
+2020-12-20 16:36:56,103 [main] INFO banking - URL opened
+2020-12-20 16:36:56,493 [main] INFO banking - uname entered
+2020-12-20 16:36:56,648 [main] INFO banking - pwd entered
+2020-12-20 16:36:58,906 [main] INFO banking - submitted
+2020-12-20 16:37:41,432 [main] INFO banking - URL opened
+2020-12-20 16:37:41,972 [main] INFO banking - uname entered
+2020-12-20 16:37:42,717 [main] INFO banking - pwd entered
+2020-12-20 16:37:44,751 [main] INFO banking - submitted
+2020-12-20 16:41:48,683 [main] INFO banking - URL opened
+2020-12-20 16:41:48,968 [main] INFO banking - uname entered
+2020-12-20 16:41:49,123 [main] INFO banking - pwd entered
+2020-12-20 16:41:50,901 [main] INFO banking - submitted
+2020-12-20 16:49:30,179 [main] INFO banking - URL opened
+2020-12-20 16:49:30,477 [main] INFO banking - uname entered
+2020-12-20 16:49:30,613 [main] INFO banking - pwd entered
+2020-12-20 16:49:32,016 [main] INFO banking - submitted
+2020-12-20 16:49:32,027 [main] INFO banking - login test passed
+2020-12-24 20:31:28,746 [main] INFO banking - URL opened
+2020-12-24 20:31:29,390 [main] INFO banking - uname entered
+2020-12-24 20:31:29,633 [main] INFO banking - pwd entered
+2020-12-24 20:31:30,662 [main] INFO banking - submitted
+2020-12-24 20:35:30,631 [main] INFO banking - URL opened
+2020-12-24 20:35:30,910 [main] INFO banking - uname entered
+2020-12-24 20:35:31,075 [main] INFO banking - pwd entered
+2020-12-24 20:35:32,986 [main] INFO banking - submitted
+2020-12-25 00:49:48,303 [main] INFO banking - URL opened
+2020-12-25 00:49:51,972 [main] INFO banking - uname entered
+2020-12-25 00:49:52,946 [main] INFO banking - pwd entered
+2020-12-25 00:49:54,300 [main] INFO banking - login passed
+2020-12-25 00:55:55,787 [main] INFO banking - URL opened
+2020-12-25 00:55:58,224 [main] INFO banking - uname entered
+2020-12-25 00:55:58,398 [main] INFO banking - pwd entered
+2020-12-25 00:56:03,273 [main] INFO banking - login passed
+2020-12-25 00:56:09,964 [main] INFO banking - uname entered
+2020-12-25 00:56:10,098 [main] INFO banking - pwd entered
+2020-12-25 00:56:15,431 [main] INFO banking - uname entered
+2020-12-25 00:56:15,559 [main] INFO banking - pwd entered
+2020-12-25 00:56:21,166 [main] INFO banking - uname entered
+2020-12-25 00:56:21,287 [main] INFO banking - pwd entered
+2020-12-25 00:56:25,812 [main] INFO banking - login passed
+2020-12-25 00:56:32,222 [main] INFO banking - uname entered
+2020-12-25 00:56:32,324 [main] INFO banking - pwd entered
+2020-12-25 03:01:24,405 [main] INFO banking - URL opened
+2020-12-25 03:01:24,702 [main] INFO banking - uname added
+2020-12-25 03:01:24,861 [main] INFO banking - pwd added
+2020-12-25 03:01:29,560 [main] INFO banking - adding customer
+2020-12-25 03:01:41,885 [main] INFO banking - passed
+2020-12-25 03:11:48,077 [main] INFO banking - URL opened
+2020-12-25 03:11:48,360 [main] INFO banking - uname entered
+2020-12-25 03:11:48,509 [main] INFO banking - pwd entered
+2020-12-25 03:11:50,208 [main] INFO banking - submitted
+2020-12-25 03:11:50,241 [main] INFO banking - login test passed
+2020-12-25 03:12:32,840 [main] INFO banking - URL opened
+2020-12-25 03:12:35,440 [main] INFO banking - uname entered
+2020-12-25 03:12:35,603 [main] INFO banking - pwd entered
+2020-12-25 03:12:40,723 [main] INFO banking - login passed
+2020-12-25 03:12:47,526 [main] INFO banking - uname entered
+2020-12-25 03:12:47,633 [main] INFO banking - pwd entered
+2020-12-25 03:12:53,763 [main] INFO banking - uname entered
+2020-12-25 03:12:53,901 [main] INFO banking - pwd entered
+2020-12-25 03:13:00,296 [main] INFO banking - uname entered
+2020-12-25 03:13:00,427 [main] INFO banking - pwd entered
+2020-12-25 03:13:05,261 [main] INFO banking - login passed
+2020-12-25 03:13:11,620 [main] INFO banking - uname entered
+2020-12-25 03:13:11,739 [main] INFO banking - pwd entered
+2020-12-25 03:14:13,893 [main] INFO banking - URL opened
+2020-12-25 03:14:14,165 [main] INFO banking - uname added
+2020-12-25 03:14:14,315 [main] INFO banking - pwd added
+2020-12-25 03:14:18,572 [main] INFO banking - adding customer
+2020-12-25 03:15:38,726 [main] INFO banking - URL opened
+2020-12-25 03:15:38,980 [main] INFO banking - uname added
+2020-12-25 03:15:39,116 [main] INFO banking - pwd added
+2020-12-25 03:15:43,840 [main] INFO banking - adding customer
+2020-12-25 03:15:55,314 [main] INFO banking - passed
+2020-12-25 15:16:28,120 [main] INFO banking - URL opened
+2020-12-25 15:16:28,514 [main] INFO banking - uname entered
+2020-12-25 15:16:28,658 [main] INFO banking - pwd entered
+2020-12-25 15:16:30,703 [main] INFO banking - submitted
+2020-12-25 15:16:30,714 [main] INFO banking - login test passed
+2020-12-25 15:42:31,412 [main] INFO banking - URL opened
+2020-12-25 15:42:31,620 [main] INFO banking - uname entered
+2020-12-25 15:42:31,752 [main] INFO banking - pwd entered
+2020-12-25 15:42:33,860 [main] INFO banking - submitted
+2020-12-25 15:42:33,873 [main] INFO banking - login test passed
+2020-12-25 15:50:45,635 [main] INFO banking - URL opened
+2020-12-25 15:50:45,916 [main] INFO banking - uname entered
+2020-12-25 15:50:46,058 [main] INFO banking - pwd entered
+2020-12-25 15:50:47,919 [main] INFO banking - submitted
+2020-12-25 15:50:47,951 [main] INFO banking - login test passed
+2020-12-25 15:51:16,555 [main] INFO banking - URL opened
+2020-12-25 15:51:16,773 [main] INFO banking - uname entered
+2020-12-25 15:51:16,906 [main] INFO banking - pwd entered
+2020-12-25 15:51:18,900 [main] INFO banking - submitted
+2020-12-25 15:51:18,916 [main] INFO banking - login test passed
+2020-12-25 15:52:13,431 [main] INFO banking - URL opened
+2020-12-25 15:52:13,693 [main] INFO banking - uname entered
+2020-12-25 15:52:13,844 [main] INFO banking - pwd entered
+2020-12-25 15:52:16,294 [main] INFO banking - submitted
+2020-12-25 15:52:16,313 [main] INFO banking - login test passed
+2020-12-25 16:12:42,275 [main] INFO banking - URL opened
+2020-12-25 16:12:42,522 [main] INFO banking - uname entered
+2020-12-25 16:12:42,673 [main] INFO banking - pwd entered
+2020-12-25 16:12:44,277 [main] INFO banking - submitted
+2020-12-25 16:12:44,292 [main] INFO banking - login test passed
+2020-12-25 19:47:26,250 [main] INFO banking - URL opened
+2020-12-25 19:47:26,899 [main] INFO banking - uname entered
+2020-12-25 19:47:27,019 [main] INFO banking - pwd entered
+2020-12-25 19:47:28,966 [main] INFO banking - submitted
+2020-12-25 19:47:28,978 [main] INFO banking - login test passed
+2020-12-25 21:10:58,794 [main] INFO banking - URL opened
+2020-12-25 21:10:59,020 [main] INFO banking - uname entered
+2020-12-25 21:10:59,154 [main] INFO banking - pwd entered
+2020-12-25 21:11:00,757 [main] INFO banking - submitted
+2020-12-25 21:11:00,771 [main] INFO banking - login test passed
